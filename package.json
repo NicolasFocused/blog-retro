@@ -1,0 +1,27 @@
+{
+  "name": "blog-retro",
+  "version": "1.0.0",
+  "description": "Sistema de generacion de blogs con estetica Apple retro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasFocused/blog-retro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasFocused/blog-retro/issues"
+  },
+  "homepage": "https://github.com/NicolasFocused/blog-retro#readme",
+  "dependencies": {
+    "astro": "^1.0.5"
+  }
+}
